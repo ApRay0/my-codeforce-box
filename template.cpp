@@ -1,13 +1,15 @@
 #include <bits/stdc++.h>
 
-void sol() {
-    
+void sol()
+{
 }
 
-int main() {
+int main()
+{
     int n;
     std::cin >> n;
-    while (n--) {
+    while (n--)
+    {
         sol();
     }
     return 0;
